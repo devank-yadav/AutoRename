@@ -1,0 +1,4 @@
+build/
+Resources/embedded-key.txt
+*.dmg
+.DS_Store
